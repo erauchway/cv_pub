@@ -4,13 +4,15 @@
 
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 h1, h2, h3 {
-    font-family: "IBM Plex Sans" !important;
+    font-family: "Roboto" !important;
     border: 0px solid black !important;
 }
 
 body {
-    font-family: "IBM Plex Serif" !important;
+    font-family: "Noto Serif" !important;
     font-size: 0.85em !important;
 }
 
